@@ -8,7 +8,7 @@ Que vamos a explicar?
 
 1⃣ Funciones
 
-2⃣ Modificadores: View y Pure
+2⃣ Modificadores: View, Pure y Payable
 
 3⃣ Eventos
 
